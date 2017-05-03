@@ -1,0 +1,12 @@
+    1  git
+    2  pwd
+    3  cd /d
+    4  cd git101/
+    5  clear
+    6  git status
+    7  git init
+    8  git status
+    9  rm -rf .git
+   10  git init
+   11  hitstory >> note.txt
+   12  history >> note.txt
